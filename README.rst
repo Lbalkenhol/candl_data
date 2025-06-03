@@ -81,3 +81,33 @@ The following table provides a summary.
      - | `Aiola et al. 2020 <https://arxiv.org/abs/2007.07288>`__
        
        `Choi et al. 2020 <https://arxiv.org/abs/2007.07289>`__
+
+
+===================
+
+.. |cnrs| image:: https://github.com/Lbalkenhol/candl/raw/main/logos/cnrs_logo.jpeg
+   :alt: CNRS
+   :height: 100px
+   :width: 100px
+
+.. |erc| image:: https://github.com/Lbalkenhol/candl/raw/main/logos/erc_logo.jpeg
+   :alt: ERC
+   :height: 100px
+   :width: 100px
+
+.. |NEUCosmoS| image:: https://github.com/Lbalkenhol/candl/raw/main/logos/neucosmos_logo.png
+   :alt: NEUCosmoS
+   :height: 100px
+   :width: 159px
+
+.. |IAP| image:: https://github.com/Lbalkenhol/candl/raw/main/logos/IAP_logo.jpeg
+   :alt: IAP
+   :height: 100px
+   :width: 104px
+
+.. |Sorbonne| image:: https://github.com/Lbalkenhol/candl/raw/main/logos/sorbonne_logo.jpeg
+   :alt: Sorbonne
+   :height: 100px
+   :width: 248px
+
+|cnrs| |erc| |NEUCosmoS| |IAP| |Sorbonne|
