@@ -39,7 +39,7 @@ This will download the relevant data files. The installation gives you access to
 Available Data
 ------------------------
 
-Please consult the `documentation<https://candl.readthedocs.io/en/stable/data/data_overview.html>`__ for a full description of the available data sets and their usage.
+Please consult the `documentation <https://candl.readthedocs.io/en/stable/data/data_overview.html>`__ for a full description of the available data sets and their usage.
 The following table provides a summary.
 
 .. list-table::
