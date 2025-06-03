@@ -57,7 +57,7 @@ Available Data
 
    * - ACT DR6 TT/TE/EE
      - ``candl_data.ACT_DR6_TTTEEE``
-     - `Naess et al. 2025 <https://arxiv.org/abs/2503.14451>`__\
+     - `Naess et al. 2025 <https://arxiv.org/abs/2503.14451>`__ <br />
        `Louis et al. 2025 <https://arxiv.org/abs/2503.14452>`__\
        `Calabrese et al. 2025 <https://arxiv.org/abs/2503.14454>`__
 
