@@ -88,20 +88,27 @@ Available Data
 
    * - ACT DR6 TT/TE/EE
      - ``candl_data.ACT_DR6_TTTEEE``
-     - `Naess et al. 2025 <https://arxiv.org/abs/2503.14451>`__ |arxiv_2503.14451|,  
-       `Louis et al. 2025 <https://arxiv.org/abs/2503.14452>`__ |arxiv_2503.14452|,  
+     - |
+       `Naess et al. 2025 <https://arxiv.org/abs/2503.14451>`__ |arxiv_2503.14451|
+       
+       `Louis et al. 2025 <https://arxiv.org/abs/2503.14452>`__ |arxiv_2503.14452|
+       
        `Calabrese et al. 2025 <https://arxiv.org/abs/2503.14454>`__ |arxiv_2503.14454|
 
    * - ACT DR6 Lensing
      - ``candl_data.ACT_DR6_Lens``
-     - `Madhavacheril et al. 2023 <https://arxiv.org/abs/2304.05203>`__ |arxiv_2304.05203|,  
+     - |
+       `Madhavacheril et al. 2023 <https://arxiv.org/abs/2304.05203>`__ |arxiv_2304.05203|
+       
        `Qu et al. 2023 <https://arxiv.org/abs/2304.05202>`__ |arxiv_2304.05202|
 
    * - Planck likelihoods
-     - See ``clipy`` <https://github.com/benabed/clipy>`__ 
+     - See ``clipy`` <https://github.com/benabed/clipy>`__
      - `Planck 2018 cosmological parameters <https://arxiv.org/abs/1907.12875>`__ |arxiv_1907.12875|
 
    * - ACT DR4 TT/TE/EE
      - ``candl_data.ACT_DR4_TTTEEE``
-     - `Aiola et al. 2020 <https://arxiv.org/abs/2007.07288>`__ |arxiv_2007.07288|,  
+     - |
+       `Aiola et al. 2020 <https://arxiv.org/abs/2007.07288>`__ |arxiv_2007.07288|
+       
        `Choi et al. 2020 <https://arxiv.org/abs/2007.07289>`__ |arxiv_2007.07289|
