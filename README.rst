@@ -38,6 +38,7 @@ This will download the relevant data files. The installation gives you access to
 
 Available Data
 ------------------------
+
 .. list-table::
    :header-rows: 1
    :widths: 20 25 55
