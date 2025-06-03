@@ -38,9 +38,13 @@ This will download the relevant data files. The installation gives you access to
 
 Available Data
 ------------------------
+
+Please consult the `documentation<https://candl.readthedocs.io/en/stable/data/data_overview.html>`__ for a full description of the available data sets and their usage.
+The following table provides a summary.
+
 .. list-table::
    :header-rows: 1
-   :widths: 20 25 55
+   :widths: 20 25 25
 
    * - Name
      - Shortcut
@@ -50,7 +54,7 @@ Available Data
      - ``candl_data.SPT3G_2018_TTTEEE``
      - `Balkenhol et al. 2023 <https://arxiv.org/abs/2212.05642>`__
 
-   * - SPT-3G 2018 Lensing
+   * - SPT-3G 2018 :math:`\phi\phi`
      - ``candl_data.SPT3G_2018_Lens``
      - `Pan et al. 2023 <https://arxiv.org/abs/2308.11608>`__
 
@@ -62,15 +66,15 @@ Available Data
        
        `Calabrese et al. 2025 <https://arxiv.org/abs/2503.14454>`__
 
-   * - ACT DR6 Lensing
+   * - ACT DR6 :math:`\phi\phi`
      - ``candl_data.ACT_DR6_Lens``
      - | `Madhavacheril et al. 2023 <https://arxiv.org/abs/2304.05203>`__
        
        `Qu et al. 2023 <https://arxiv.org/abs/2304.05202>`__
 
    * - Planck likelihoods
-     - See ``clipy`` <https://github.com/benabed/clipy>`__
-     - `Planck 2018 cosmological parameters <https://arxiv.org/abs/1907.12875>`__
+     - See ``clipy`` (`here <https://github.com/benabed/clipy>`__)
+     - `Planck 2018 V <https://arxiv.org/abs/1907.12875>`__
 
    * - ACT DR4 TT/TE/EE
      - ``candl_data.ACT_DR4_TTTEEE``
