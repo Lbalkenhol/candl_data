@@ -56,8 +56,7 @@ Available Data
 
    * - ACT DR6 TT/TE/EE
      - ``candl_data.ACT_DR6_TTTEEE``
-     - |
-       `Naess et al. 2025 <https://arxiv.org/abs/2503.14451>`__
+     - | `Naess et al. 2025 <https://arxiv.org/abs/2503.14451>`__
        
        `Louis et al. 2025 <https://arxiv.org/abs/2503.14452>`__
        
@@ -65,8 +64,7 @@ Available Data
 
    * - ACT DR6 Lensing
      - ``candl_data.ACT_DR6_Lens``
-     - |
-       `Madhavacheril et al. 2023 <https://arxiv.org/abs/2304.05203>`__
+     - | `Madhavacheril et al. 2023 <https://arxiv.org/abs/2304.05203>`__
        
        `Qu et al. 2023 <https://arxiv.org/abs/2304.05202>`__
 
