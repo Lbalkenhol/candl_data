@@ -1,0 +1,5 @@
+data_set_file: "candl_data.ACT_DR6_Lens_and_CMB"
+lensing: True
+test_spectrum: "ACT_DR6_Lens_and_CMB_test_spec.txt"
+param_values: {}
+test_logl: -7.0652489147803506

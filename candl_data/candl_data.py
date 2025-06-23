@@ -119,3 +119,25 @@ def print_all_shortcuts():
             print(
                 f"{ky}: 'candl_data.{shortcuts[ky]}'\n(data files located at: {globals()[shortcuts[ky]]})"
             )
+
+# --------------------------------------#
+# TESTS
+# --------------------------------------#
+
+def run_all_tests():
+    """
+    Runs all tests.
+    See candl.test.run_test().
+    """
+
+    from candl.tests import run_test
+
+    # Grab all test yaml files
+    
+    all_test_yaml_files = [
+        f for f in os.listdir(f"{data_path}/tests/") if f.endswith(".yaml")
+    ]
+
+    # Loop over all tests
+    for test_file in all_test_yaml_files:
+        run_test(f"{data_path}/tests/{test_file}")
