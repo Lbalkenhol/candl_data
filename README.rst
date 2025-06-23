@@ -35,6 +35,10 @@ This will download the relevant data files. The installation gives you access to
     import candl_data
     candl_data.print_all_shortcuts()
 
+To check that everything is working, you can test the supplied likelihoods (provided you have already installed candl) via::
+
+    import candl_data
+    candl_data.run_all_tests()
 
 Available Data
 ------------------------
