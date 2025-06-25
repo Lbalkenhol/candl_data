@@ -44,6 +44,7 @@ Available Data
 ------------------------
 
 Please consult the `documentation <https://candl.readthedocs.io/en/stable/data/data_overview.html>`__ for a full description of all available data sets. This library repo only contains the data below.
+
 .. list-table::
    :header-rows: 1
    :widths: 20 25 25
