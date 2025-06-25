@@ -43,9 +43,7 @@ To check that everything is working, you can test the supplied likelihoods (prov
 Available Data
 ------------------------
 
-Please consult the `documentation <https://candl.readthedocs.io/en/stable/data/data_overview.html>`__ for a full description of the available data sets and their usage.
-The following table provides a summary.
-
+Please consult the `documentation <https://candl.readthedocs.io/en/stable/data/data_overview.html>`__ for a full description of all available data sets. This library repo only contains the data below.
 .. list-table::
    :header-rows: 1
    :widths: 20 25 25
@@ -75,10 +73,6 @@ The following table provides a summary.
      - | `Madhavacheril et al. 2023 <https://arxiv.org/abs/2304.05203>`__
        
        `Qu et al. 2023 <https://arxiv.org/abs/2304.05202>`__
-
-   * - Planck likelihoods
-     - See ``clipy`` (`here <https://github.com/benabed/clipy>`__)
-     - `Planck 2018 V <https://arxiv.org/abs/1907.12875>`__
 
    * - ACT DR4 TT/TE/EE
      - ``candl_data.ACT_DR4_TTTEEE``
