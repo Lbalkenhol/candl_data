@@ -99,10 +99,10 @@ Please consult the `documentation <https://candl.readthedocs.io/en/stable/data/d
    :height: 100px
    :width: 159px
 
-.. |IAP| image:: https://github.com/Lbalkenhol/candl/raw/main/logos/IAP_logo.jpeg
+.. |IAP| image:: https://github.com/Lbalkenhol/candl/raw/main/logos/IAP_logo.png
    :alt: IAP
    :height: 100px
-   :width: 104px
+   :width: 149px
 
 .. |Sorbonne| image:: https://github.com/Lbalkenhol/candl/raw/main/logos/sorbonne_logo.jpeg
    :alt: Sorbonne
