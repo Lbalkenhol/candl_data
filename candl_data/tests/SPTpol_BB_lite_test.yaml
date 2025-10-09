@@ -1,0 +1,6 @@
+data_set_file: "candl_data.SPTpol_BB_lite"
+lensing: False
+test_spectrum: "SPTpol_BB_test_spec.txt"
+param_values: {}
+test_logl: -4.0050958514119275
+remove_prior: False

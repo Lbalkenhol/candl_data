@@ -1,0 +1,7 @@
+# Effective frequencies for different types of sources
+polarised_galactic_dust:
+  95: 96.2
+  150: 149.5
+radio_galaxies:
+  95: 91.40024477126127
+  150: 143.97283854388698

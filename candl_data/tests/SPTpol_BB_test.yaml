@@ -1,0 +1,13 @@
+data_set_file: "candl_data.SPTpol_BB_multifreq"
+lensing: False
+test_spectrum: "SPTpol_BB_test_spec.txt"
+param_values: {'BB_Poisson_150x150': 1.0,
+ 'BB_Poisson_95x150': 1.0,
+ 'BB_Poisson_95x95': 1.0,
+ 'D80_150ghz': 0.02,
+ 'alpha_candl': -2.9,
+ 'beta_gal': 1.7,
+ 'pcal150': 1.01,
+ 'pcal95': 0.995}
+test_logl: -143.7307369282271
+remove_prior: False

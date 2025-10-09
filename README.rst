@@ -61,6 +61,18 @@ Please consult the `documentation <https://candl.readthedocs.io/en/stable/data/d
      - ``candl_data.SPT3G_2018_Lens``
      - `Pan et al. 2023 <https://arxiv.org/abs/2308.11608>`__
 
+   * - SPT-3G D1 BB lite
+     - ``candl_data.SPT3G_D1_BB_lite``
+     - | `Zebrowski et al. 2025 <https://arxiv.org/abs/2505.02827>`__
+       
+       Balkenhol et al. 2025 [ARXIVTODO]
+
+   * - SPTpol BB
+     - ``candl_data.SPTpol_BB``
+     - | `Sayre et al. 2020 <https://arxiv.org/abs/1910.05748>`__
+       
+       Balkenhol et al. 2025 [ARXIVTODO]
+
    * - ACT DR6 TT/TE/EE
      - ``candl_data.ACT_DR6_TTTEEE``
      - | `Naess et al. 2025 <https://arxiv.org/abs/2503.14451>`__

@@ -1,0 +1,6 @@
+data_set_file: "candl_data.SPT3G_D1_BB_lite"
+lensing: False
+test_spectrum: "SPT3G_D1_BB_lite_test_spec.txt"
+param_values: {}
+test_logl: -15.446949077757477
+remove_prior: False

@@ -1,0 +1,27 @@
+# SPT-3G D1 BB lite
+# Balkenhol, Coerver, Reichardt, Zebrowski 2025
+# ARXIVTODO
+# Based on
+# J. A. Zebrowski, C. L. Reichardt et al. 2019
+# https://arxiv.org/abs/2505.02827
+name: "SPT-3G D1 BB lite (Balkenhol et al. 2025 based on Zebrowski et al. 2025)"
+likelihood_form: "offset_lognorm"
+
+# FEEDBACK
+feedback: True
+
+# KEY FILES
+# For plotting band powers, see 'SPT3G_D1_BB_lite_bdp_for_plotting.txt'
+offset_lognorm_mean: "SPT3G_D1_BB_lite_offset_lognorm_mean.txt"
+offset_lognorm_offset: "SPT3G_D1_BB_lite_offset_lognorm_offsets.txt"
+covariance_file: "SPT3G_D1_BB_lite_offset_lognorm_cov.txt"
+window_functions_folder: "windows/"
+
+# DATA INFORMATION
+spectra_info:
+ - BB lxl: 5
+
+# DATA MODEL
+data_model: []
+
+priors: []

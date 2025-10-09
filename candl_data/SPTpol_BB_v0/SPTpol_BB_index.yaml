@@ -1,0 +1,14 @@
+# SPTpol 500d BB
+# J.T. Sayre, C. L. Reichardt, J. W. Henning et al. 2019
+# https://arxiv.org/abs/1910.05748
+
+# DEFAULT
+default: "SPTpol_BB.yaml"
+
+# MULTI-FREQUENCY LIKELIHOOD
+# With all foreground components etc.
+multifreq: "SPTpol_BB.yaml"
+
+# LITE (Balkenhol, Coerver, Reichardt, Zebrowski 2025, ARXIVTODO)
+# Foreground-marginsalised CMB-lite version
+lite: "SPTpol_BB_lite.yaml"

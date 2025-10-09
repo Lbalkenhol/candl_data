@@ -1,0 +1,25 @@
+# SPTpol 500d BB lite
+# Balkenhol, Coerver, Reichardt, Zebrowski 2025
+# ARXIVTODO
+# Based on
+# J.T. Sayre, C. L. Reichardt, J. W. Henning et al. 2019
+# https://arxiv.org/abs/1910.05748
+name: "SPTpol BB lite (Balkenhol et al. 2025 based on Sayre et al. 2019)"
+likelihood_form: "gaussian"
+
+# FEEDBACK
+feedback: True
+
+# KEY FILES
+band_power_file: "SPTpol_BB_bdp_lite.txt"
+covariance_file: "SPTpol_BB_cov_lite.txt"
+window_functions_folder: "windows_lite/"
+
+# DATA INFORMATION
+spectra_info:
+ - BB lxl: 7
+
+# DATA MODEL
+data_model: []
+
+priors: []
