@@ -9,6 +9,6 @@ default: "SPTpol_BB.yaml"
 # With all foreground components etc.
 multifreq: "SPTpol_BB.yaml"
 
-# LITE (Balkenhol, Coerver, Reichardt, Zebrowski 2025, ARXIVTODO)
+# LITE (Balkenhol, Coerver, Reichardt, Zebrowski 2025, https://arxiv.org/abs/2510.07928)
 # Foreground-marginsalised CMB-lite version
 lite: "SPTpol_BB_lite.yaml"
